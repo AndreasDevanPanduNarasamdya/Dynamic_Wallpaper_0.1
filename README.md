@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="World Trade Center" src="https://github.com/user-attachments/assets/9ec7fa3c-9917-4995-b41a-62fe14212600" />
+<img width="1920" height="1200" alt="demonstration" src="https://github.com/user-attachments/assets/48dfc71c-20bc-4c29-9aac-dc4753757f69" />
 
 # Dynamic Wallpaper 0.1!!!!
 
